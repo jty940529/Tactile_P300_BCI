@@ -10,3 +10,4 @@ chanlocsnew = EEG.chanlocs;
 srate = EEG.srate;
 data = EEG.data;
 clc
+end
